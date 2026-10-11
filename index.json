@@ -1,0 +1,11 @@
+{
+  "org": "pytest-dev",
+  "repo": "pytest-tcpclient",
+  "versions": [
+    {
+      "commit": "aa8b88db6605d97f607f6dfb13a8b6b400b42d9b",
+      "tag": "0.7.29",
+      "parsed_at": "2026-10-11T09:04:29.064723+00:00"
+    }
+  ]
+}
