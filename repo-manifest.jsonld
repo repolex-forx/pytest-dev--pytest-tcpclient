@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pytest-dev/pytest-tcpclient/commit/aa8b88db6605d97f607f6dfb13a8b6b400b42d9b",
       "git:hexsha": "aa8b88db6605d97f607f6dfb13a8b6b400b42d9b",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.7.29"
     },
     {
